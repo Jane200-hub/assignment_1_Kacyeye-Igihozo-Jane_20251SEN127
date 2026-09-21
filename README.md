@@ -68,7 +68,7 @@ Order date
 Because an INNER JOIN only returns matching records, every displayed order has a corresponding customer.
 Result / Screenshot
 INSERT SCREENSHOT 1 HERE – Query 1 Result
-Suggested filename: `query1_order_customer.png`
+Suggested filename:Screenshots\ query1_order_customer.png
 Business Interpretation
 This information allows management to identify which customers placed specific orders, where they are located, and when the orders were placed.
 ---
