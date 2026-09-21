@@ -80,9 +80,7 @@ Customer name
 Customer city
 Order date
 Only records with matching customer and order information are returned.
-Result / Screenshot
 ![Query 1 Result](screenshots/query1_order_customer.png)
-Screenshot file: `query1_order_customer.png`
 Business Interpretation
 Management can use this information to identify which customers placed particular orders, where the customers are located, and when the orders were placed.
 ---
